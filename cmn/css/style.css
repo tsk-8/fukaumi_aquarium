@@ -1,7 +1,6 @@
 @charset "UTF-8";
 @import url(normalize.css);
 @import url(http://fonts.googleapis.com/earlyaccess/notosansjp.css);
-@import url(scroll_down.css);
 
 body {
 	width: 100%;
@@ -202,10 +201,6 @@ section .notice {
 	text-align: center;
 }
 
-.popup-modal-dismiss, {
+.popup-modal-dismiss {
 	color: #00e;
 }
-
-/***** start .notice *****/
-section .pick_up{}
-
