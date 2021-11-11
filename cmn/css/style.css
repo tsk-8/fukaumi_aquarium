@@ -200,7 +200,7 @@ section .notice {
 	text-align: center;
 }
 
-.popup-modal-dismiss, {
+.popup-modal-dismiss {
 	color: #00e;
 }
 
