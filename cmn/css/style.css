@@ -232,7 +232,7 @@ section .notice {
 
 /***** start .news *****/
 .news {
-	background: #fff;
+	background: #F0FFFB;
 }
 
 .news ul {
@@ -261,7 +261,7 @@ section .notice {
 .news_date {
   font-size: 15px;
   display: flex;
-  margin-right: 15px;
+  margin-right: 20px;
   align-items: center;
 }
 
