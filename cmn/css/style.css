@@ -232,7 +232,8 @@ section .notice {
 
 /***** start .news *****/
 .news {
-	background: #000;}
+	background: #fff;
+}
 
 .news ul {
     list-style: none;
