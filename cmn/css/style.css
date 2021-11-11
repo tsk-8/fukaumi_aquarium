@@ -251,11 +251,11 @@ section .notice {
 }
 
 .topic a {
- position: relative;
- display: flex;
- padding-right: 30px;
- color: #333;
- text-decoration: none;
+	position: relative;
+	display: flex;
+	padding-right: 30px;
+	color: #333;
+	text-decoration: none;
 }
 
 .news_date {
